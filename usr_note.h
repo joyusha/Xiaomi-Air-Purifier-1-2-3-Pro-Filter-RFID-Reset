@@ -12,6 +12,9 @@ Arduino Uno, MFRC-522 Module, RFID Tag
 Wiring
 https://blog.jmaker.com.tw/arduino-rfid/
 
+Reference Data
+https://post.smzdm.com/p/ag8lq7ow/
+
 ============================================================
 History
 ============================================================
