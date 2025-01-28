@@ -195,7 +195,7 @@ void loop()
   }
   else
   {
-    Serial.print("Write Sueccess\n");
+    Serial.print("Write Success\n");
   }
 }
 
